@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-👉 [Click here to view the live project]()
+👉 [Click here to view the live project](https://syeda-kaneez-fatima.github.io/Decodelab-Internship/)
 
 ---
 
